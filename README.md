@@ -1,6 +1,6 @@
 ### Hi there this file has been edited 👋
 
-<!--
+
 **Dev-Diren/Dev-Diren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: via email.
 - 😄 Pronouns: im pro nouns, verbs can suckit
 - ⚡ Fun fact: this is not a fun fact.
--->
+
