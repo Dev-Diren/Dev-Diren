@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Surviving. 
-- 🌱 I’m currently learning how to use Github, Python and Web stuff
+- 🌱 I’m currently learning how to use Github, Python, C++, Rust and Web stuff
 - 👯 I’m looking to collaborate on nothing for now
 - 🤔 I’m looking for help with life
 - 💬 Ask me about the lucky number for the year
